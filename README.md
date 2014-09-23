@@ -1,7 +1,8 @@
 gitdemos
 ========
 
-A Repo for demoing Git
+A Repo for demoing Git. The idea here is to have some **Markdown** to edit between a few users and then
+use the Orion Git support to show how to work with Git Repos.
 
 https://github.com/kenwalker/gitdemos.git
 
