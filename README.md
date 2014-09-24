@@ -6,6 +6,8 @@ use the Orion Git support to show how to work with Git Repos.
 
 Hi from Bitterboy
 
+![ken](ken300.jpg "ken")
+
 This is a __pretty cool__ document. 
 
 * this is one line
