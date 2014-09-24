@@ -4,6 +4,8 @@ gitdemos
 A Repo for demoing Git. The idea here is to have some **Markdown** to edit between a few users and then
 use the Orion Git support to show how to work with Git Repos.
 
+Hi from Bitterboy
+
 This is a __pretty cool__ document. 
 
 * this is one line
